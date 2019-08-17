@@ -1,0 +1,16 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research Projects"
+      href: Research_projects.html
+    - text: "People"
+      href: People.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Resources"
+      href: Resources.html
+    - text: "Open Positions"
+      href: Open_Positions.html
